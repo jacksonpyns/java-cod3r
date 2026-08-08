@@ -19,6 +19,10 @@ public class Heroi extends Jogador { // extends == herança
 //		}
 //	}
 	
+	Heroi(int x, int y){
+		super(x, y);
+	}
+	
 	// Para não ter que reescrever o método todo usa-se o "super." 
 	boolean atacar(Jogador oponente) { 
 		boolean ataque1 = super.atacar(oponente); // para pegar da classe super(classe pai).
