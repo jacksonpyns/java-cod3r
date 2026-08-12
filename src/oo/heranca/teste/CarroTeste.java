@@ -1,9 +1,13 @@
-package oo.heranca.desafio;
+package oo.heranca.teste;
 
-public class CarroTeste {
+import oo.heranca.desafio.Carro;
+import oo.heranca.desafio.Ferrari;
+import oo.heranca.desafio.Fusca;
+
+public class CarroTeste{
 
 	public static void main(String[] args) {
-		Carro c1 = new Carro(400);
+		Carro c1 = new Ferrari();
 		
 		System.out.println(c1);
 		

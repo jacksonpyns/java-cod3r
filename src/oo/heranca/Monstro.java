@@ -2,7 +2,7 @@ package oo.heranca;
 
 public class Monstro extends Jogador { // extends == herança
 
-	Monstro(int x, int y){
+	public Monstro(int x, int y){
 		super(0, 0);
 	}
 	/**

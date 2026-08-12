@@ -2,11 +2,11 @@ package oo.heranca.desafio;
 
 public class Fusca extends Carro{
 
-	void acelerar() {
+	public void acelerar() {
 		velocidadeAtual += 80;
 	}
 	
-	Fusca(){
+	public Fusca(){
 		super(212);
 	}
 }
