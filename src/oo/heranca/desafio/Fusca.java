@@ -5,4 +5,8 @@ public class Fusca extends Carro{
 	void acelerar() {
 		velocidadeAtual += 80;
 	}
+	
+	Fusca(){
+		super(212);
+	}
 }
