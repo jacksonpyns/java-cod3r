@@ -29,7 +29,7 @@ public class CarroTeste{
 		f1.acelerar();
 		System.out.println("A Ferrari acelerou " + f1);
 		
-		
+		System.out.println(f1.velocidadeDoAr());
 		
 		Fusca f2 = new Fusca();
 		f2.acelerar();
