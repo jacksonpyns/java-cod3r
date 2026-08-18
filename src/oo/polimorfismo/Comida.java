@@ -1,6 +1,6 @@
 package oo.polimorfismo;
 
-public class Comida {
+public abstract class Comida { // Classe que não pode ser instânciada
 
 	private double peso;
 
