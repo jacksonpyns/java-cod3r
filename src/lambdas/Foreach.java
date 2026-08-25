@@ -1,4 +1,4 @@
-package lambdas;
+package lambdas; // Sempre quando tiver "->" é uma lambda
 
 import java.util.Arrays;
 import java.util.List;
