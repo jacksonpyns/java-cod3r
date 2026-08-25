@@ -10,7 +10,7 @@ public class Funcao {
 		/**
 		 *  Function recebe como parâmetro de entrada um número inteiro (o Wrapper Integer)
 		 * e essa interface vai retornar um valor String: 
-		 * recebe um numero, verifica se o resto desse numero é igual a zero,
+		 *  Ele recebe um numero, verifica se o "resto" desse numero é igual a zero,
 		 * se for significa que ele é "Par", se não ele é "Ímpar"
 		 */
 		
