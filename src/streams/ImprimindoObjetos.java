@@ -23,7 +23,7 @@ public class ImprimindoObjetos {
 		for (String nome: aprovados) {
 			System.out.println(nome);
 		}
-		
+
 		// iterator
 		// Iteração significa repetição, passar por todos os elementos de uma lista
 		System.out.println("\nUsando Iterator...");
