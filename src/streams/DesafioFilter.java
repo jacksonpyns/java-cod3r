@@ -30,7 +30,7 @@ public class DesafioFilter {
 		produtos.stream()
 			.filter(superPromocao)
 			.filter(freteGratis)
-			//.filter(precoRelevante)
+			.filter(precoRelevante)
 			.map(chamadaPromocional)
 			.forEach(System.out::println);
 		
