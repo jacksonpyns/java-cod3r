@@ -16,7 +16,7 @@ public class NovaPessoa {
 		
 		Connection conexao = FabricaConexao.getConexao();
 		/*
-		 *  O nome obtido através do Scanner vai ser passado como 
+		 * O nome obtido através do Scanner vai ser passado como 
 		 * paramêtro para a consulta
 		 */
 		
