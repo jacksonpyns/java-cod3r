@@ -9,3 +9,6 @@
 /ConsultarPessoas2.class
 /AlterarNomePessoa.class
 /ExcluirPessoa.class
+/DAO.class
+/PessoaDAO.class
+/DAOTeste.class
